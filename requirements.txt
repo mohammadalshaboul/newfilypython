@@ -5,3 +5,5 @@ from PIL import Image, ImageEnhance
 import arabic_reshaper
 import os
 import re
+Flask
+

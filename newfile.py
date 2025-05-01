@@ -1,3 +1,5 @@
+from keep_alive import keep_alive
+keep_alive()  # هذا يجعل السيرفر يعمل في الخلفية
 import telebot
 from telebot import types
 from fpdf import FPDF
